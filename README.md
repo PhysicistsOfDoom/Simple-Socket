@@ -1,6 +1,9 @@
 # TCP Connection in C
 This project demonstrates TCP connections over IPv6 using C. It sends an echo, replies with the echo.
 
+# Requirements
+- x64 Native Tools Command Prompt
+
 # Setup
 Compile using Windows cl.exe (From VS Code Build Tools)
 ```bash
